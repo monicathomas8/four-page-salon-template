@@ -30,4 +30,4 @@ This template can be deployed on any static hosting platform.
 Netlify is currently recommended as it handles the contact form out of the box with Netlify Forms.
 
 ## Contributing
-Please read the CONTRIBUTING.md file before starting any work.
+Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file before starting any work.
